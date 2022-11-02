@@ -1,8 +1,6 @@
 <h1>Covid Spread</h1>
 <h2>Bonaventure Raj</h2>
 
-<br/>
-
 <h3>Objective</h3>
 <br/>
 This repository explores the rate of spread of Covid-19 in Clark County, Nevada. It subsets on data found from Feb 1st, 2020 - Oct 1st, 2021. To better understand the impacts of external factors such as State Policies, and Public Mask Mandate regulations we add these feature by date announced to the visualization. 
