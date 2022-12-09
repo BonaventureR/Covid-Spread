@@ -29,3 +29,13 @@ This acquires data from: https://data.cdc.gov/Policy-Surveillance/U-S-State-and-
 `data/compliance` directory:
 <br/>
 This acquires data from: https://github.com/nytimes/covid-19-data/tree/master/mask-use, licensed to The New York Times (for free use, as long as 1) non-commercial and 2) credits the New York Times). We do not use this analysis for commerical reasons and we credit this data used from the New York Times. This is survey data that checks mask-use based on feedback from users on whether they wear a mask as NEVER, RARELY, SOMETIMES, FREQUENTLY, ALWAYS as a proportion per population in county over number of responses.
+
+
+<h3>References</h3>
+https://www.bls.gov/web/metro/laucntycur14.txt
+https://www.bls.gov/lau/laucnty20.txt
+https://www.nevada-demographics.com/counties_by_population
+https://ycharts.com/indicators/las_vegas_nv_unemployment_rate#:~:text=Las%20Vegas%2C%20NV%20Unemployment%20Rate%20is%20at%205.40%25%2C%20compared,long%20term%20average%20of%206.83%25.
+https://datausa.io/profile/geo/boulder-city-nv#covid \
+
+https://data.bls.gov/cgi-bin/surveymost
