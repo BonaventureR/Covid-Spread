@@ -41,8 +41,8 @@ for analysis. This produces data found in `data/produced_data/combined_metro_sta
 
 
 <h3> References </h3>
-[1] Bureau of Labor Statistics, U.S. Department of Labor, Occupational Outlook Handbook, [Economy at a Glance], on the Internet at [https://www.bls.gov/eag/eag.nv.htm] (visited [11/08/2022]]. \
-[2] Bureau of Labor Statistics, U.S. Department of Labor, Occupational Outlook Handbook, [Local Area Unemployment Statistics], on the Internet at [https://www.bls.gov/eag/eag.nv_lasvegas_msa.htm] (visited [11/08/2022]]. \
-[3] Bureau of Labor Statistics, U.S. Department of Labor, Occupational Outlook Handbook, [Local Area Unemployment Statistics], on the Internet at [https://www.bls.gov/lau/#tables] (visited [11/08/2022]]. \
-[4] Bureau of Labor Statistics, U.S. Department of Labor, Occupational Outlook Handbook, [Copyright Information], on the Internet at [https://www.bls.gov/opub/copyright-information.htm] (visited [11/08/2022]]. \
+[1] Bureau of Labor Statistics, U.S. Department of Labor, Occupational Outlook Handbook, [Economy at a Glance], on the Internet at [https://www.bls.gov/eag/eag.nv.htm] (visited [11/08/2022]]. <br/>
+[2] Bureau of Labor Statistics, U.S. Department of Labor, Occupational Outlook Handbook, [Local Area Unemployment Statistics], on the Internet at [https://www.bls.gov/eag/eag.nv_lasvegas_msa.htm] (visited [11/08/2022]]. <br/>
+[3] Bureau of Labor Statistics, U.S. Department of Labor, Occupational Outlook Handbook, [Local Area Unemployment Statistics], on the Internet at [https://www.bls.gov/lau/#tables] (visited [11/08/2022]]. <br/>
+[4] Bureau of Labor Statistics, U.S. Department of Labor, Occupational Outlook Handbook, [Copyright Information], on the Internet at [https://www.bls.gov/opub/copyright-information.htm] (visited [11/08/2022]]. <br/>
 [5] Goldbloom, A. (2022, December 10). Covid-19 data from John Hopkins University. Kaggle. Retrieved December 10, 2022, from https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university 
