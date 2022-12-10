@@ -3,11 +3,15 @@
 
 <h3>Objective</h3>
 <br/>
-This repository explores the rate of spread of Covid-19 in Clark County, Nevada. It subsets on data found from Feb 1st, 2020 - Oct 1st, 2021. To better understand the impacts of external factors such as State Policies, and Public Mask Mandate regulations we add these feature by date announced to the visualization. 
+This repository explores the rate of spread of Covid-19 in Clark County, Nevada. It subsets on data found from Feb 1st, 2020 - Oct 1st, 2021. To better understand the impacts of external factors such as State Policies, and Public Mask Mandate regulations we add these feature by date announced to the visualization. The extension looks at two further questions. 1) How much of an impact did covid have on employment rate, and was it significant at a 0.05 level? 2) How much did this impact the employment rate of the state as a whole?
+
 <br/>
 <h3>Structure</h3>
 <br/>
 This repository has a `data` directory for all acquired and produced data. Further explanation on acquired data is found in the Data section below. The acquired data is produced by `Data_Formatting.ipynb`. `Data_Formatting.ipynb` is a notebook that clean, filters, and aggregates all acquired data needed for the visualization step in `Visualization.ipynb`. That leaves that `Visualization.ipynb` visualizes the time series data that outputs `mask_covid_spread.png` graphic that leads to our conclusion.
+
+The extension of this project covered in `extension_analyze_data.ipynb` and `extension_write_data.ipynb` cover the final two objectives stated above. These objectives contain the analysis and explanation of the code in those notebooks.
+
 <br/>
 <h3>Data</h3>
 <br/>
