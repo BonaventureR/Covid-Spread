@@ -37,12 +37,12 @@ This acquires data from: https://github.com/nytimes/covid-19-data/tree/master/ma
 `data/extension_data` directory:
 <br/>
 This data has all of the extension data for analysis on employment rate in the county. Specifically, the analysis uses `metropolitan_unemployment_statistics_vegas_henderson_paradise.xlsx`, `state_wide_non_seasonally_adjusted.xlsx` and `state_wide_seasonally_adjusted.xlsx`
-for analysis. This produces data found in `data/produced_data/combined_metro_state_data.csv` for aggregated and cleaned data analysis. This data is found from https://www.bls.gov/eag/eag.nv_lasvegas_msa.html.
+for analysis. This produces data found in `data/produced_data/combined_metro_state_data.csv` for aggregated and cleaned data analysis. This data is found from https://www.bls.gov/eag/eag.nv_lasvegas_msa.html [1,2,3]. The data is free use given credit as found in source [4].
 
-<h3>Other Helpful References</h3>
 
-https://www.bls.gov/web/metro/laucntycur14.txt \
-https://www.bls.gov/lau/laucnty20.txt \
-https://www.nevada-demographics.com/counties_by_population \
-https://ycharts.com/indicators/las_vegas_nv_unemployment_rate#:~:text=Las%20Vegas%2C%20NV%20Unemployment%20Rate%20is%20at%205.40%25%2C%20compared,long%20term%20average%20of%206.83%25. \
-https://datausa.io/profile/geo/boulder-city-nv#covid \
+<h3> References </h3>
+[1] Bureau of Labor Statistics, U.S. Department of Labor, Occupational Outlook Handbook, [Economy at a Glance], on the Internet at [https://www.bls.gov/eag/eag.nv.htm] (visited [11/08/2022]].
+[2] Bureau of Labor Statistics, U.S. Department of Labor, Occupational Outlook Handbook, [Local Area Unemployment Statistics], on the Internet at [https://www.bls.gov/eag/eag.nv_lasvegas_msa.htm] (visited [11/08/2022]].
+[3] Bureau of Labor Statistics, U.S. Department of Labor, Occupational Outlook Handbook, [Local Area Unemployment Statistics], on the Internet at [https://www.bls.gov/lau/#tables] (visited [11/08/2022]].
+[4] Bureau of Labor Statistics, U.S. Department of Labor, Occupational Outlook Handbook, [Copyright Information], on the Internet at [https://www.bls.gov/opub/copyright-information.htm] (visited [11/08/2022]].
+[5] Goldbloom, A. (2022, December 10). Covid-19 data from John Hopkins University. Kaggle. Retrieved December 10, 2022, from https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university 
